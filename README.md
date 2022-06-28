@@ -1,15 +1,11 @@
 ## Hello there 👋
 
-My name is Julian and I'm from Argentina. Currently working at [@eventbrite](https://github.com/eventbrite)
+My name is Julian and I'm from Argentina. Currently working at [@venmo](https://github.com/venmo)
 
 ## Skills
 
 * Using Python (and Django) since 2019
-* Migrating legacy code (and its dependencies) from a monolith to a SOA service
+* Migrating legacy code
 * Everything as a Docker image
 * Learning what's called the "cloud"
 * Critical thinking, team player and problem solving skills
-
-## Contact
-
-Find all of my socials and resume in my [website](https://jagadru.github.io)
